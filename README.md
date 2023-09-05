@@ -12,7 +12,7 @@ This project demonstrates the concept of Multistage build in Docker using a Flas
   - [Dockerfile of Normal Image](#dockerfile-of-normal-image)
   - [Dockerfile of Multi-stage Image](#dockerfile-of-multi-stage-image)
   - [Size Difference](#size-difference)
--
+
 
 ## Introduction
 
@@ -71,13 +71,13 @@ multistage-docker-flask/
 
 ### Dockerfile of Normal Image
 
-![Dockerfile of Normal Image](screenshots/dockerfile-normal.png)
+![Dockerfile of Normal Image](screenshots/normal-dockerfile.jpg)
 
 ### Dockerfile of Multi-stage Image
 
-![Dockerfile of Multi-stage Image](screenshots/dockerfile-multistage.png)
+![Dockerfile of Multi-stage Image](screenshots/mts-dockerfile.jpg)
 
 ### Size Difference
 
-![Size Difference](screenshots/size-difference.png)
+![Size Difference](screenshots/diff-of-size.jpg)
 
